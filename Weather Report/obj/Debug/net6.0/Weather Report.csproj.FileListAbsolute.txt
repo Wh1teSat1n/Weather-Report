@@ -1,0 +1,28 @@
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\bin\Debug\net6.0\appsettings.json
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\bin\Debug\net6.0\Weather Report.staticwebassets.runtime.json
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\bin\Debug\net6.0\Weather Report.exe
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\bin\Debug\net6.0\Weather Report.deps.json
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\bin\Debug\net6.0\Weather Report.runtimeconfig.json
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\bin\Debug\net6.0\Weather Report.dll
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\bin\Debug\net6.0\Weather Report.pdb
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\Weather Report.csproj.AssemblyReference.cache
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\Weather Report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\Weather Report.AssemblyInfoInputs.cache
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\Weather Report.AssemblyInfo.cs
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\Weather Report.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\Weather Report.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\Weather Report.RazorAssemblyInfo.cache
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\Weather Report.RazorAssemblyInfo.cs
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\scopedcss\bundle\Weather Report.styles.css
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\scopedcss\projectbundle\Weather Report.bundle.scp.css
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\Weather Report.dll
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\refint\Weather Report.dll
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\Weather Report.pdb
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\Weather Report.genruntimeconfig.cache
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\ref\Weather Report.dll
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nikit\Desktop\Projects\Weather Report\Weather Report\obj\Debug\net6.0\Weather Report.csproj.CopyComplete
